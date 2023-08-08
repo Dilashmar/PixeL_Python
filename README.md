@@ -4,7 +4,7 @@ Welcome to the Pixel Snake Game! This classic Snake game is implemented using th
 
 ## How to Play
 
-1. Clone this repository to your local machine using `git clone`.
+1. Clone this repository to your local machine
 2. Open the project in PyCharm (or your preferred IDE).
 3. Ensure you have the Pygame library installed (`pip install pygame`).
 4. Run the `Snake_game.py` script to start the game.
